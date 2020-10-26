@@ -6,3 +6,5 @@ Making a Java app cannot be easier than this. Try it out. Contribute here this h
 hello
 Making a Java cannot be easier than this. Try it out. Contribute here this hacktoberfest 2020.
 This project features a basic java text editor.
+
+See you Soon!
