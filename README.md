@@ -9,3 +9,5 @@ This project features a basic java text editor.
 
 See you Soon!
 Hacktoberfest 2021
+Its this time of the year again!
+Hacktoberfest 2022!
