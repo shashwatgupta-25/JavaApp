@@ -202,6 +202,7 @@ public class SimpleTextEditor {
 			frame.setTitle(title);
 			
 		} catch(Exception e) {
+			//
 			e.printStackTrace();
 		}
 	}
